@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2488885803
+    locked: 0
+  - name: Forceground
+    uniqueID: 3955066485
+    locked: 0
+  - name: Obstacle
+    uniqueID: 3177680839
+    locked: 0
+  - name: Player
+    uniqueID: 1888933789
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
